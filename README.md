@@ -1,4 +1,5 @@
 # Firmware Demo – Egg Incubator IoT (ESP32)
+Indonesian Version. (Bahasa Indonesia)
 
 This repository provides a **technical demo firmware** for an **ESP32-based egg incubator controller**.
 
